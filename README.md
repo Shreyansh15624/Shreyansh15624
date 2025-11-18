@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img src="https://api.boot.dev/v1/users/public/6cf573ca-7319-4e27-8697-e85687fcb750/thumbnail" >
 </p>
 <p align="center">
-  <a href="https://app.daily.dev/shreyanshvajroju"><img src="./devcard.png?r=ub9&type=default" width="356" alt="Shreyansh Vajroju's Dev Card"></a>
+  <a href="https://app.daily.dev/shreyanshvajroju"><img src="./devcard.png" width="356" alt="Shreyansh Vajroju's Dev Card"></a>
 </p>
