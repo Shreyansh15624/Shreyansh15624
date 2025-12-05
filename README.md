@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img src="https://api.boot.dev/v1/users/public/6cf573ca-7319-4e27-8697-e85687fcb750/thumbnail" >
 </p>
 <p align="center">
-  <a href="https://app.daily.dev/shreyanshvajroju"><img src="https://api.daily.dev/devcards/v2/wXsO7deun1WECDopvE27r.png?type=wide&r=zk5" width="652" alt="Shreyansh Vajroju's Dev Card"/></a>
+  <a href="https://app.daily.dev/shreyanshvajroju"><img src="https://github.com/Shreyansh15624/Shreyansh15624/blob/main/devcard.png?raw=true" width="652" alt="Shreyansh Vajroju's Dev Card"/></a>
 </p>
