@@ -11,6 +11,7 @@ I'm a software engineer based in Hyderabad, specializing in building resilient m
 ---
 
 **🚀 Featured Architecture: Obsidian RAG API**
+
 Currently building a decoupled, microservices-based Retrieval-Augmented Generation (RAG) system that transforms static markdown notes into an interactive, context-aware API.
 * **Core Stack:** Python, FastAPI, LangChain, Google Gemini, and serverless vector databases (Pinecone).
 * **Design Patterns:** Engineered with stateless compute, asynchronous endpoints, and custom edge security middleware for robust cloud deployments via Docker and Render.
