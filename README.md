@@ -1,6 +1,6 @@
 ### Hi, I'm Shreyansh Vajroju 👋
 
-**Backend Developer | Python & AI Integrations | Continuous Learner**
+**Backend Developer | Python, FastAPI, SQLAlchemy & AI Integrations | Continuous Learner**
 
 I'm a software engineer based in Hyderabad, specializing in building resilient microservices, decoupled architectures, and integrating LLMs into cloud-native tools. I recently graduated with a B.Tech in Computer Science & Engineering and am actively seeking full-time roles where I can architect robust backend systems and solve complex data retrieval challenges.
 
