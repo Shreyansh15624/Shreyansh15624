@@ -14,36 +14,24 @@
   </a>
 </p>
 
-I am a software engineer based in Hyderabad, specializing in building fault-tolerant microservices, deterministic API routing, and integrating Large Language Models into resilient pipelines. I focus on bridging the gap between raw unstructured data and strict business logic, emphasizing privacy-first, local-compute architectures and distributed systems.
+> I am a software engineer based in Hyderabad, specializing in building fault-tolerant microservices, deterministic API routing, and integrating Large Language Models into resilient pipelines. I focus on bridging the gap between raw unstructured data and strict business logic via privacy-first, local-compute architectures.
 
+<br>
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/6cf573ca-7319-4e27-8697-e85687fcb750/thumbnail" alt="Boot.dev Thumbnail"/>
+  <img src="https://api.boot.dev/v1/users/public/6cf573ca-7319-4e27-8697-e85687fcb750/thumbnail" alt="Boot.dev Thumbnail" width="700"/>
 </p>
-
----
+<br>
 
 ### 🚀 Featured Architectures
 
-#### 💳 Mutex Mint
-*A highly resilient, distributed fintech backend engineered for high-performance transactions and race-condition immunity.*
-* **Architecture:** Python 3.12, FastAPI, Celery worker queues, Redis, PostgreSQL (containerized via Docker), and Alembic.
-* **Engineering:** Features custom idempotency middleware at the network perimeter to prevent double-spending, strictly enforced row-level database locks (`SELECT ... FOR UPDATE`), and stateless JWT RBAC. Load-tested via Locust to handle 500+ concurrent users without transaction drops.
+| Project & Focus | Tech Stack | Engineering Highlights |
+| :--- | :--- | :--- |
+| **💳 Mutex Mint**<br>Distributed FinTech Engine | FastAPI, PostgreSQL, Redis, Celery, Docker | Idempotency middleware, `SELECT ... FOR UPDATE` row-level locks, zero-drop Locust stress tested (500+ users). |
+| **🛡️ AegisAgent**<br>Autonomous CLI AI-Agent | Python, Gemini 2.5, Local Llama 3 (Ollama) | Isolated `Makefile` sandboxing, multi-LLM decoupled architecture, autonomous ReAct loops on a "Zero-OpenAI" diet. |
+| **📄 Synapx Agent**<br>Deterministic FNOL Router | Typer, PyMuPDF, `instructor`, Pydantic | Strict JSON Grammar Constraints, dual-engine fallback, deterministic routing over hallucination. |
+| **🧠 Obsidian RAG**<br>Local Vector API | FastAPI, Reflex, LangChain, ChromaDB | Privacy-first semantic retrieval, AI metadata enrichment, auto-saving deductions directly to local markdown. |
 
-#### 🛡️ AegisAgent
-*An autonomous, terminal-native AI agent engineered for real-world system manipulation and secure reasoning.*
-* **Architecture:** Implements a completely decoupled architecture with localized `schema_mapper.py` translations, supporting both Google Gemini 2.5 and local Llama 3 via Ollama.
-* **Engineering:** Enforces strict execution sandboxing using a `Makefile`-driven template restoration system. Leverages autonomous ReAct loops and Python subprocesses for secure shell execution and atomic codebase manipulation on a "Zero-OpenAI" diet.
-
-#### 📄 Synapx Autonomous Claim Agent
-*A resilient Typer-based CLI pipeline built to autonomously ingest dense PDF documents, extract structured schemas, and execute deterministic business routing.*
-* **Architecture:** Implements a Factory Pattern for dual-engine LLM extraction (Gemini / Ollama fallback).
-* **Engineering:** Utilizes native LLM **Grammar Constraints**, strict `Pydantic` validation, and PyMuPDF (`fitz`) to physically prevent JSON wrapper hallucinations and securely parse First Notice of Loss (FNOL) data.
-
-#### 🧠 Obsidian RAG Second Brain & MarketIntel Engine
-* **Obsidian RAG:** An AI-powered, local-first decoupled system (FastAPI + Reflex) transforming a static Markdown vault into an interactive, context-aware API via LangChain, ChromaDB, and Qdrant.
-* **MarketIntel Engine:** A decoupled microservices architecture featuring AI-driven market intelligence capabilities, designed for scalable cloud deployment via AWS.
-
----
+<br>
 
 ### 🛠️ Technical Arsenal
 
@@ -69,9 +57,10 @@ I am a software engineer based in Hyderabad, specializing in building fault-tole
   <img src="https://img.shields.io/badge/uv-202124?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
----
+<br>
 
 ### 🌱 Current Trajectory (The May Sprint) & Beyond
-* ⚙️ **The Grind:** Currently executing a highly focused engineering sprint mastering distributed systems (Celery/Redis), local-compute AI fallbacks, and deterministic routing.
-* 🎨 **The Canvas:** Developing a highly creative, custom **Godot-based portfolio website** utilizing GDScript to interactively showcase my backend architectures.
-* ⚔️ **The Downtime:** When the terminal is closed, you can find me troubleshooting Kubuntu drivers, reading the *Berserk* manga, or clearing single-player physics shooters like *Intrusion 2* on Steam.
+
+* ⚙️ **The Grind:** Mastering distributed systems (Celery/Redis), local-compute AI fallbacks, and deterministic routing.
+* 🎨 **The Canvas:** Developing an interactive, custom **Godot-based portfolio website** utilizing GDScript.
+* ⚔️ **The Downtime:** Troubleshooting Kubuntu drivers, reading the *Berserk* manga, or clearing single-player physics shooters like *Intrusion 2*.
