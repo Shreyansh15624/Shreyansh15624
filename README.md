@@ -9,8 +9,8 @@
   <a href="mailto:shreyanshvajroju@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://app.boot.dev/u/cheerfulmanufacturer0746" target="_blank">
-    <img src="https://img.shields.io/badge/Boot.dev-Backend_Mastery-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="Boot.dev" />
+  <a href="https://www.boot.dev/u/cheerfulmanufacturer0746" target="_blank">
+    <img src="https://img.shields.io/badge/-Boot.dev-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="Boot.dev" />
   </a>
 </p>
 
