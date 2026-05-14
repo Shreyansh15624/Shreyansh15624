@@ -71,14 +71,6 @@ I am a software engineer based in Hyderabad, specializing in building fault-tole
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyansh15624&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🌱 Current Trajectory (The May Sprint) & Beyond
 * ⚙️ **The Grind:** Currently executing a highly focused engineering sprint mastering distributed systems (Celery/Redis), local-compute AI fallbacks, and deterministic routing.
 * 🎨 **The Canvas:** Developing a highly creative, custom **Godot-based portfolio website** utilizing GDScript to interactively showcase my backend architectures.
