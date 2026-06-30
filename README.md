@@ -16,18 +16,16 @@
 
 > I am a software engineer based in Hyderabad, specializing in building fault-tolerant microservices, deterministic API routing, and integrating Large Language Models into resilient pipelines. I focus on bridging the gap between raw unstructured data and strict business logic via privacy-first, local-compute architectures and asynchronous agentic workflows.
 
-<br>
 <p align="center">
   <a href="https://www.boot.dev/u/cheerfulmanufacturer0746" target="_blank">
     <img src="https://api.boot.dev/v1/users/public/6cf573ca-7319-4e27-8697-e85687fcb750/thumbnail" alt="Boot.dev Thumbnail" width="700"/>
   </a>
 </p>
-<br>
 
 ### ⚡ Core Engineering Stack
 
 | Backend & Infrastructure | AI Orchestration & LLMOps | Databases & Task Queues |
-| :--- | :--- | :--- |
+| :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_Kubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> | <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/xAI_Grok-000000?style=for-the-badge&logo=x&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" /> |
 
 ### 🏗️ Active Engineering & Systems
