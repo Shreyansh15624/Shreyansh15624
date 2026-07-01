@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.boot.dev/u/cheerfulmanufacturer0746" target="_blank">
-    <img src="https://api.boot.dev/v1/users/public/6cf573ca-7319-4e27-8697-e85687fcb750/thumbnail" alt="Boot.dev Thumbnail" width="700"/>
+    <img src="https://api.boot.dev/v1/users/public/6cf573ca-7319-4e27-8697-e85687fcb750/thumbnail" alt="Boot.dev Thumbnail" width="1000"/>
   </a>
 </p>
 
